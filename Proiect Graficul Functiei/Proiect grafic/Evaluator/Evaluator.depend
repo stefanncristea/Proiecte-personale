@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1608488655 source:c:\users\asus\desktop\proiect grafic\evaluator\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<climits>
+

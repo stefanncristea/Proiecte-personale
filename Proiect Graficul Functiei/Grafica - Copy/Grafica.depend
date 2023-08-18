@@ -1,0 +1,141 @@
+# depslib dependency file v1.0
+1610459149 source:e:\new fresh\informatica new fresh\graphics\grafica\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<math.h>
+	<Windows.h>
+	<stack>
+	"play_music.h"
+	"play_music_off.h"
+	"afisare_menu.h"
+	"afisare_optiuni.h"
+	"afisare_on_off.h"
+	"afisare_limba.h"
+	"afisare_muzica.h"
+	"afisare_despre.h"
+	"afisare_incepe.h"
+	"animatie_monitor.h"
+	"calculeaza_coordonate.h"
+	"citeste_functie.h"
+	"button_effect.h"
+	"asimptote.h"
+	"butoane_min_max_asimptote.h"
+	"corectitudine.h"
+	"evaluator.h"
+	"desenare.h"
+
+1609081263 e:\new fresh\informatica new fresh\graphics\grafica\afisare.h
+
+1609697408 e:\new fresh\informatica new fresh\graphics\grafica\play_music.h
+
+1609697407 e:\new fresh\informatica new fresh\graphics\grafica\play_music_off.h
+	"play_music.h"
+
+1609756597 e:\new fresh\informatica new fresh\graphics\grafica\afisare_menu.h
+
+1609695683 e:\new fresh\informatica new fresh\graphics\grafica\afisare_optiuni.h
+
+1609696042 e:\new fresh\informatica new fresh\graphics\grafica\afisare_despre.h
+
+1610239935 e:\new fresh\informatica new fresh\graphics\grafica\animatie_monitor.h
+
+1609697307 e:\new fresh\informatica new fresh\graphics\grafica\afisare_limba.h
+
+1610131749 e:\new fresh\informatica new fresh\graphics\grafica\calculeaza_coordonate.h
+
+1609699589 e:\new fresh\informatica new fresh\graphics\grafica\afisare_on_off.h
+
+1609699715 e:\new fresh\informatica new fresh\graphics\grafica\afisare_muzica.h
+
+1610204544 e:\new fresh\informatica new fresh\graphics\grafica\afisare_incepe.h
+
+1610204055 e:\new fresh\informatica new fresh\graphics\grafica\button_effect.h
+	"calculeaza_coordonate.h"
+
+1610449862 e:\new fresh\informatica new fresh\graphics\grafica\citeste_functie.h
+	"evaluator.h"
+	"corectitudine.h"
+	"afisare_menu.h"
+
+1610455753 e:\new fresh\informatica new fresh\graphics\grafica\evaluator.h
+
+1610407340 e:\new fresh\informatica new fresh\graphics\grafica\corectitudine.h
+
+1610458167 e:\new fresh\informatica new fresh\graphics\grafica\desenare.h
+
+1610454004 e:\new fresh\informatica new fresh\graphics\grafica\asimptote.h
+	"desenare.h"
+
+1610452745 e:\new fresh\informatica new fresh\graphics\grafica\butoane_min_max_asimptote.h
+
+1610490134 source:c:\users\asus\desktop\proiect complet\grafica - copy\main.cpp
+	<iostream>
+	<graphics.h>
+	<winbgim.h>
+	<cstring>
+	<math.h>
+	<Windows.h>
+	<stack>
+	"play_music.h"
+	"play_music_off.h"
+	"afisare_menu.h"
+	"afisare_optiuni.h"
+	"afisare_on_off.h"
+	"afisare_limba.h"
+	"afisare_muzica.h"
+	"afisare_despre.h"
+	"afisare_incepe.h"
+	"animatie_monitor.h"
+	"calculeaza_coordonate.h"
+	"citeste_functie.h"
+	"button_effect.h"
+	"asimptote.h"
+	"butoane_min_max_asimptote.h"
+	"corectitudine.h"
+	"evaluator.h"
+	"desenare.h"
+
+1609697408 c:\users\asus\desktop\proiect complet\grafica - copy\play_music.h
+
+1609697407 c:\users\asus\desktop\proiect complet\grafica - copy\play_music_off.h
+	"play_music.h"
+
+1609756597 c:\users\asus\desktop\proiect complet\grafica - copy\afisare_menu.h
+
+1609695683 c:\users\asus\desktop\proiect complet\grafica - copy\afisare_optiuni.h
+
+1609699589 c:\users\asus\desktop\proiect complet\grafica - copy\afisare_on_off.h
+
+1609697307 c:\users\asus\desktop\proiect complet\grafica - copy\afisare_limba.h
+
+1609699715 c:\users\asus\desktop\proiect complet\grafica - copy\afisare_muzica.h
+
+1609696042 c:\users\asus\desktop\proiect complet\grafica - copy\afisare_despre.h
+
+1610204544 c:\users\asus\desktop\proiect complet\grafica - copy\afisare_incepe.h
+
+1610239935 c:\users\asus\desktop\proiect complet\grafica - copy\animatie_monitor.h
+
+1610131749 c:\users\asus\desktop\proiect complet\grafica - copy\calculeaza_coordonate.h
+
+1610449862 c:\users\asus\desktop\proiect complet\grafica - copy\citeste_functie.h
+	"evaluator.h"
+	"corectitudine.h"
+	"afisare_menu.h"
+
+1610489764 c:\users\asus\desktop\proiect complet\grafica - copy\evaluator.h
+
+1610407340 c:\users\asus\desktop\proiect complet\grafica - copy\corectitudine.h
+
+1610204055 c:\users\asus\desktop\proiect complet\grafica - copy\button_effect.h
+	"calculeaza_coordonate.h"
+
+1610490771 c:\users\asus\desktop\proiect complet\grafica - copy\asimptote.h
+	"desenare.h"
+
+1610490134 c:\users\asus\desktop\proiect complet\grafica - copy\desenare.h
+
+1610452745 c:\users\asus\desktop\proiect complet\grafica - copy\butoane_min_max_asimptote.h
+

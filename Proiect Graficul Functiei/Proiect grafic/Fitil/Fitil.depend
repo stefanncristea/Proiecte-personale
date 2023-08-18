@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1609000366 source:c:\users\asus\desktop\proiect lab4\fitil\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<climits>
+	<stack>
+	<graphics.h>
+	"evaluator.h"
+	"corectitudine.h"
+
+1609000333 c:\users\asus\desktop\proiect lab4\fitil\evaluator.h
+
+1608991451 c:\users\asus\desktop\proiect lab4\fitil\corectitudine.h
+
+1610402353 source:c:\users\asus\desktop\proiect grafic\fitil\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+	<cstdlib>
+	<climits>
+	<stack>
+	<graphics.h>
+	"evaluator.h"
+	"corectitudine.h"
+	"desenare.h"
+	"asimptote.h"
+
+1610397179 c:\users\asus\desktop\proiect grafic\fitil\evaluator.h
+
+1610397239 c:\users\asus\desktop\proiect grafic\fitil\corectitudine.h
+
+1610408972 c:\users\asus\desktop\proiect grafic\fitil\desenare.h
+	<cmath>
+
+1610408816 c:\users\asus\desktop\proiect grafic\fitil\asimptote.h
+

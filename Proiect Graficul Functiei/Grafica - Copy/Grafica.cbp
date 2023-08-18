@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Grafica" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Grafica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-lwinmm" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Grafica" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="-lwinmm" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Afisare.h" />
+		<Unit filename="afisare_despre.h" />
+		<Unit filename="afisare_incepe.h" />
+		<Unit filename="afisare_limba.h" />
+		<Unit filename="afisare_menu.h" />
+		<Unit filename="afisare_muzica.h" />
+		<Unit filename="afisare_on_off.h" />
+		<Unit filename="afisare_optiuni.h" />
+		<Unit filename="animatie_monitor.h" />
+		<Unit filename="button_effect.h" />
+		<Unit filename="calculeaza_coordonate.h" />
+		<Unit filename="citeste_functie.h" />
+		<Unit filename="click.h" />
+		<Unit filename="corectitudine.h" />
+		<Unit filename="desenare.h" />
+		<Unit filename="evaluator.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="play_music.h" />
+		<Unit filename="play_music_off.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

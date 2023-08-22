@@ -1,0 +1,2 @@
+This was my first project in college and its goal was to draw the graph of a function, but also to build an interface to link the backend to the frontend.
+The language used was entirely C++, and the graphics were done using the graphics.h library.

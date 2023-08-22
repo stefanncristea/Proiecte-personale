@@ -1,0 +1,1 @@
+This was my first web technologies project in college. It helped me learn about web pages and improve my skills in using the PHP language.
